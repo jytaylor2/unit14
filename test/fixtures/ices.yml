@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cream: MyString
+  ice_cream_name: MyString
+  ice_cream_avail_size: MyString
+  ice_cream_type: MyString
+
+two:
+  cream: MyString
+  ice_cream_name: MyString
+  ice_cream_avail_size: MyString
+  ice_cream_type: MyString
